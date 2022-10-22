@@ -1,6 +1,4 @@
-# Office_Management_System
-The office management system is made using Java, Swing and MySql.
-
+# Office Management System
 First the login page will open. The admin will enter the username and password.
 ![Screenshot (13)](https://user-images.githubusercontent.com/64828547/197341444-9987fbda-68ab-48bf-9945-38e2d82728dc.png)
 
